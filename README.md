@@ -53,4 +53,26 @@ https://github.com/jihwan160/portfolio/assets/108442182/1accb867-630c-44a1-a1af-
 
 https://github.com/jihwan160/portfolio/assets/108442182/fd96b6af-09ee-464c-9a08-6d7044e6e3e2
 
+로그인확인_공지사항
 
+https://github.com/jihwan160/portfolio/assets/108442182/37a01cfb-2620-40fa-8a9f-adce62ae010e
+
+회원가입 1
+
+https://github.com/jihwan160/portfolio/assets/108442182/711f226e-82b9-49ea-ba0a-b97dc32b36b4
+
+회원가입 2
+
+https://github.com/jihwan160/portfolio/assets/108442182/886a4f02-afe2-4cfd-b30d-b1c0918e946d
+
+회원정보수정
+
+https://github.com/jihwan160/portfolio/assets/108442182/9dabf37a-4dbb-4032-b4ea-4e3dd8d0a5c7
+
+회원탈퇴
+
+https://github.com/jihwan160/portfolio/assets/108442182/c927a107-ce51-4e76-8266-c3f51dcbfeaf
+
+관리자
+
+https://github.com/jihwan160/portfolio/assets/108442182/1dde22cb-4303-4382-8717-89ac93fc1669
