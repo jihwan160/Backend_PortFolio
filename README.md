@@ -43,3 +43,8 @@ JSP와 Servlet은 백엔드에서, HTML/CSS와 JavaScript는 프론트엔드에�
 이런 워크플로우는 사용자가 시스템을 쉽고 효과적으로 이용하도록 돕는 기본적인 프레임워크를 제공합니다. 이러한 각 단계는 사용자와 시스템 간의 상호작용을 최적화하고 사용자 경험을 향상시키는 데 중요한 역할을 합니다.
 
 #5. 프로젝트 시연
+
+게시판글쓰기
+https://github.com/jihwan160/portfolio/assets/108442182/1accb867-630c-44a1-a1af-02b9a9913040
+게시판분류별서치
+https://github.com/jihwan160/portfolio/assets/108442182/fd96b6af-09ee-464c-9a08-6d7044e6e3e2
