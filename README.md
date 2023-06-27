@@ -46,5 +46,9 @@ JSP와 Servlet은 백엔드에서, HTML/CSS와 JavaScript는 프론트엔드에�
 
 게시판글쓰기
 https://github.com/jihwan160/portfolio/assets/108442182/1accb867-630c-44a1-a1af-02b9a9913040
+
+
 게시판분류별서치
 https://github.com/jihwan160/portfolio/assets/108442182/fd96b6af-09ee-464c-9a08-6d7044e6e3e2
+
+
