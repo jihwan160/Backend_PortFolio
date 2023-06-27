@@ -47,6 +47,10 @@ https://github.com/jihwan160/portfolio/assets/108442182/1accb867-630c-44a1-a1af-
 
 https://github.com/jihwan160/portfolio/assets/108442182/fd96b6af-09ee-464c-9a08-6d7044e6e3e2
 
+글 수정,삭제
+
+https://github.com/jihwan160/Backend_PortFolio/assets/108442182/23e10bf4-7f2e-4f7e-992f-5760294feff9
+
 로그인확인_공지사항
 
 https://github.com/jihwan160/portfolio/assets/108442182/37a01cfb-2620-40fa-8a9f-adce62ae010e
