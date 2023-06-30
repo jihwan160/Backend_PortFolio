@@ -7,10 +7,7 @@
 
 #2. DB 구성
 
-프로젝트명 : Ezen Project 
-작업명 : 게시판, 로그인, 회원가입 기능 구현
-회원 테이블명 : ezen_member
-게시판 테이블명 : ezen_board
+![DB 구성](https://github.com/jihwan160/Backend_PortFolio/assets/108442182/37b297ee-c53d-4b14-8da9-56849c8cc910)
 
 
 #3. 구성
