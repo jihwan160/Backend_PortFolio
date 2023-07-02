@@ -42,37 +42,36 @@
 
 게시판글쓰기
 
-https://github.com/jihwan160/portfolio/assets/108442182/1accb867-630c-44a1-a1af-02b9a9913040
-
+https://github.com/jihwan160/Backend_PortFolio/assets/108442182/e7afb11f-963d-47e5-ae68-409773b70157
 
 게시판분류별서치
 
-https://github.com/jihwan160/portfolio/assets/108442182/fd96b6af-09ee-464c-9a08-6d7044e6e3e2
-
-글 수정,삭제
-
-https://github.com/jihwan160/Backend_PortFolio/assets/108442182/23e10bf4-7f2e-4f7e-992f-5760294feff9
+https://github.com/jihwan160/Backend_PortFolio/assets/108442182/ef51a1dc-77bb-41af-8a27-54315314936f
 
 로그인확인_공지사항
 
-https://github.com/jihwan160/portfolio/assets/108442182/37a01cfb-2620-40fa-8a9f-adce62ae010e
+https://github.com/jihwan160/Backend_PortFolio/assets/108442182/1df649a9-16ce-4e03-ae91-a863a5fb0e92
+
+글 수정,삭제
+
+https://github.com/jihwan160/Backend_PortFolio/assets/108442182/82df9efb-70ed-4eed-836b-b0af9e8563ee
 
 회원가입 1
 
-https://github.com/jihwan160/portfolio/assets/108442182/711f226e-82b9-49ea-ba0a-b97dc32b36b4
+https://github.com/jihwan160/Backend_PortFolio/assets/108442182/01b48953-bdf3-4141-83c3-385bc651da73
 
 회원가입 2
 
-https://github.com/jihwan160/portfolio/assets/108442182/886a4f02-afe2-4cfd-b30d-b1c0918e946d
+https://github.com/jihwan160/Backend_PortFolio/assets/108442182/5c0b46a2-28d8-4093-acd3-e67620817510
 
 회원정보수정
 
-https://github.com/jihwan160/portfolio/assets/108442182/9dabf37a-4dbb-4032-b4ea-4e3dd8d0a5c7
+https://github.com/jihwan160/Backend_PortFolio/assets/108442182/c0ecb624-de22-4e06-9b91-1270f08c136d
 
 회원탈퇴
 
-https://github.com/jihwan160/portfolio/assets/108442182/c927a107-ce51-4e76-8266-c3f51dcbfeaf
+https://github.com/jihwan160/Backend_PortFolio/assets/108442182/f682716a-0535-4a35-ac2f-de1191dd7989
 
 관리자
 
-https://github.com/jihwan160/portfolio/assets/108442182/1dde22cb-4303-4382-8717-89ac93fc1669
+https://github.com/jihwan160/Backend_PortFolio/assets/108442182/b9d0eab2-dae8-4a9e-85f5-ec02c8727b5a
