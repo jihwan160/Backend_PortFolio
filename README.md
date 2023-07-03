@@ -35,7 +35,7 @@
 
 ![login_workflow](https://github.com/jihwan160/Backend_PortFolio/assets/108442182/f750a684-c199-4d32-8150-c6043142e789)
 
-
+![게시판 workflow](https://github.com/jihwan160/Backend_PortFolio/assets/108442182/01a97f03-5734-4b79-925e-b7d92582b809)
 
 
 #5. 프로젝트 시연
